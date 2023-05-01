@@ -1,0 +1,202 @@
+
+texture_atlas.png
+size: 268,234
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+tree3
+  rotate: false
+  xy: 0,0
+  size: 127,75
+  orig: 127,75
+  offset: 0,0
+  index: -1
+frog1
+  rotate: false
+  xy: 0,75
+  size: 60,52
+  orig: 60,52
+  offset: 0,0
+  index: -1
+tree4
+  rotate: false
+  xy: 127,0
+  size: 53,57
+  orig: 53,57
+  offset: 0,0
+  index: -1
+mushroom2
+  rotate: false
+  xy: 127,57
+  size: 51,47
+  orig: 51,47
+  offset: 0,0
+  index: -1
+mushroom1
+  rotate: false
+  xy: 60,75
+  size: 49,45
+  orig: 49,45
+  offset: 0,0
+  index: -1
+tree5
+  rotate: false
+  xy: 109,104
+  size: 45,49
+  orig: 45,49
+  offset: 0,0
+  index: -1
+computer1
+  rotate: false
+  xy: 60,120
+  size: 42,45
+  orig: 42,45
+  offset: 0,0
+  index: -1
+flower_grass3
+  rotate: false
+  xy: 0,127
+  size: 44,30
+  orig: 44,30
+  offset: 0,0
+  index: -1
+flower_grass4
+  rotate: false
+  xy: 0,157
+  size: 44,30
+  orig: 44,30
+  offset: 0,0
+  index: -1
+flower_grass5
+  rotate: false
+  xy: 102,153
+  size: 44,30
+  orig: 44,30
+  offset: 0,0
+  index: -1
+flower_grass6
+  rotate: false
+  xy: 44,165
+  size: 44,30
+  orig: 44,30
+  offset: 0,0
+  index: -1
+water3
+  rotate: false
+  xy: 146,153
+  size: 44,30
+  orig: 44,30
+  offset: 0,0
+  index: -1
+dark_grass2
+  rotate: false
+  xy: 154,104
+  size: 44,30
+  orig: 44,30
+  offset: 0,0
+  index: -1
+default_grass
+  rotate: false
+  xy: 178,57
+  size: 44,30
+  orig: 44,30
+  offset: 0,0
+  index: -1
+dark_grass1
+  rotate: false
+  xy: 180,0
+  size: 44,30
+  orig: 44,30
+  offset: 0,0
+  index: -1
+water1
+  rotate: false
+  xy: 0,187
+  size: 44,30
+  orig: 44,30
+  offset: 0,0
+  index: -1
+sand1
+  rotate: false
+  xy: 88,183
+  size: 44,30
+  orig: 44,30
+  offset: 0,0
+  index: -1
+sand2
+  rotate: false
+  xy: 44,195
+  size: 44,30
+  orig: 44,30
+  offset: 0,0
+  index: -1
+selected
+  rotate: false
+  xy: 132,183
+  size: 44,30
+  orig: 44,30
+  offset: 0,0
+  index: -1
+selected_primary
+  rotate: false
+  xy: 176,183
+  size: 44,30
+  orig: 44,30
+  offset: 0,0
+  index: -1
+water2
+  rotate: false
+  xy: 190,134
+  size: 44,30
+  orig: 44,30
+  offset: 0,0
+  index: -1
+flower_grass1
+  rotate: false
+  xy: 198,87
+  size: 44,30
+  orig: 44,30
+  offset: 0,0
+  index: -1
+flower_grass2
+  rotate: false
+  xy: 222,30
+  size: 44,30
+  orig: 44,30
+  offset: 0,0
+  index: -1
+mushroom_grass1
+  rotate: false
+  xy: 224,0
+  size: 44,30
+  orig: 44,30
+  offset: 0,0
+  index: -1
+disk1
+  rotate: false
+  xy: 220,164
+  size: 32,40
+  orig: 32,40
+  offset: 0,0
+  index: -1
+player
+  rotate: false
+  xy: 220,204
+  size: 30,30
+  orig: 30,30
+  offset: 0,0
+  index: -1
+tree2
+  rotate: false
+  xy: 180,30
+  size: 26,23
+  orig: 26,23
+  offset: 0,0
+  index: -1
+tree1
+  rotate: false
+  xy: 190,164
+  size: 27,17
+  orig: 27,17
+  offset: 0,0
+  index: -1

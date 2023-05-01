@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Aeon.iml" filepath="$PROJECT_DIR$/.idea/modules/Aeon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android/Aeon.android.iml" filepath="$PROJECT_DIR$/.idea/modules/android/Aeon.android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android/Aeon.android.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/android/Aeon.android.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android/Aeon.android.main.iml" filepath="$PROJECT_DIR$/.idea/modules/android/Aeon.android.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android/Aeon.android.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/android/Aeon.android.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/Aeon.core.iml" filepath="$PROJECT_DIR$/.idea/modules/core/Aeon.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/Aeon.core.main.iml" filepath="$PROJECT_DIR$/.idea/modules/core/Aeon.core.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/Aeon.core.test.iml" filepath="$PROJECT_DIR$/.idea/modules/core/Aeon.core.test.iml" />
+    </modules>
+  </component>
+</project>

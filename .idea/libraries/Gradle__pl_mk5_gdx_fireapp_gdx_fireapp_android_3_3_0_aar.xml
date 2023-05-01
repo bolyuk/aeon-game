@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: pl.mk5.gdx-fireapp:gdx-fireapp-android:3.3.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/43bcb812e744814084b43737e11e21e5/transformed/gdx-fireapp-android-3.3.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/43bcb812e744814084b43737e11e21e5/transformed/gdx-fireapp-android-3.3.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/43bcb812e744814084b43737e11e21e5/transformed/gdx-fireapp-android-3.3.0/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/pl.mk5.gdx-fireapp/gdx-fireapp-android/3.3.0/399e6687bdf10dc0c5bd81e70cbcc7fbe6c98e4f/gdx-fireapp-android-3.3.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/pl.mk5.gdx-fireapp/gdx-fireapp-android/3.3.0/57e96840d6a8edaa1357d7a2c33be5df2f0df20a/gdx-fireapp-android-3.3.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
